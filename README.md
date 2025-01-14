@@ -1,6 +1,6 @@
 # Hi there, I'm Ahmed Hatem 👋
 
-As a web developer with a two-year tenure at SmartMinde, I've honed a versatile skill set. My expertise encompasses ASP.NET Core, AngularJS, Vue.js, and proficiency in managing development teams. Currently, I serve as the CTO at our development company, overseeing technical services and server management on Google Cloud Platform (GCP).
+As a web developer with a two-year tenure at SmartMinde, I've honed a versatile skill set. My expertise encompasses ASP.NET Core, Angular, Vue.js, and proficiency in managing development teams. Currently, I serve as the CTO at our development company, overseeing technical services and server management on Google Cloud Platform (GCP).
 
 ## 🔧 Technologies & Tools
 
