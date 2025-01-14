@@ -19,6 +19,8 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 - Managed a team of 10+ developers to deliver multiple successful projects.
 
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📊 My Contributions:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMo7ammed20&layout=compact&theme=radical)
