@@ -12,4 +12,3 @@ As a web developer with a two-year tenure at SmartMinde, I've honed a versatile 
 ## 📈 GitHub Stats
 
 ![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical)
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical)
