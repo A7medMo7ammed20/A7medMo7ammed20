@@ -19,7 +19,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 - **CTO** at [SMA SMA Smart Managed Applications for IT Co.]
 - Delivered scalable backend solutions using **Node.js** and **GCP**.
 - Managed a team of 10+ developers to deliver multiple successful projects.
-- Contributed to open-source projects and collaborated with global developers.
 
 ---
 
@@ -27,13 +26,6 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMo7ammed20&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical)
 
----
-
-## 🎉 POAPs (Proof of Attendance Protocol):
-### My Digital Badges:
-- ![Hackathon Badge](https://img.shields.io/badge/Hackathon-Participant-blue?style=flat)
-- ![Open Source Contributor](https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=flat)
-- ![GCP Certified](https://img.shields.io/badge/GCP-Certified-blue?style=flat)
 
 ---
 
