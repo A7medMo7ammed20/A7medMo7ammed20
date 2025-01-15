@@ -21,6 +21,16 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 ---
 ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
+
+```rust
+From: 13 January 2025 - To: 14 January 2025
+
+Total Time: 15 mins
+
+YAML   15 mins         █████████████████████████   99.88 %
+HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
