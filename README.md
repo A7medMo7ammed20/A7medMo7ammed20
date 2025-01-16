@@ -23,12 +23,14 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2025 - To: 14 January 2025
+From: 13 January 2025 - To: 15 January 2025
 
-Total Time: 15 mins
+Total Time: 3 hrs 27 mins
 
-YAML   15 mins         █████████████████████████   99.88 %
-HTML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+SCSS         1 hr 24 mins    ██████████░░░░░░░░░░░░░░░   40.58 %
+TypeScript   1 hr 4 mins     ███████▓░░░░░░░░░░░░░░░░░   31.14 %
+HTML         43 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
+YAML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
 ```
 
 <!--END_SECTION:waka-->
