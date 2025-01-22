@@ -23,20 +23,20 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2025 - To: 19 January 2025
+From: 13 January 2025 - To: 20 January 2025
 
-Total Time: 7 hrs 10 mins
+Total Time: 8 hrs 57 mins
 
-TypeScript   2 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   32.73 %
-SCSS         1 hr 25 mins    █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-JavaScript   1 hr 20 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-HTML         1 hr 12 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-Text         26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   3 hrs 30 mins   █████████▓░░░░░░░░░░░░░░░   39.15 %
+HTML         1 hr 47 mins    █████░░░░░░░░░░░░░░░░░░░░   19.98 %
+SCSS         1 hr 27 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+JavaScript   1 hr 20 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
+Text         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
+YAML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+JSON         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
