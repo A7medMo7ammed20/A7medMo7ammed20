@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 <!--START_SECTION:waka-->
 
 ```rust
-From: 13 January 2025 - To: 30 January 2025
+From: 13 January 2025 - To: 31 January 2025
 
 Total Time: 22 hrs 24 mins
 
