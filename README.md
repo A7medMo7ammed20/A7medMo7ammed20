@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 
 ---
 ## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
+<!--
 
 ```rust
 From: 13 January 2025 - To: 02 February 2025
@@ -38,14 +38,14 @@ JSON         14 mins         ▒░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
-
+START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
 
 ## 📊 My Contributions:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMo7ammed20&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical) -->
 
 
 ---
