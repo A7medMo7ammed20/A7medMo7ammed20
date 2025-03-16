@@ -17,10 +17,12 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 3 y
 - **CTO** at [SMA SMA Smart Managed Applications for IT Co.]
 - Delivered scalable backend solutions using **Node.js** and **GCP**.
 - Managed a team of 10+ developers to deliver multiple successful projects.
+- Worked on 6+ Angular projects ranging from medium to large scale.
+- Developed 3 ASP.NET Core projects specializing in the Dapper framework.
 
 ---
-## 📊 Weekly Development Breakdown
 <!--
+## 📊 Weekly Development Breakdown
 
 ```rust
 From: 13 January 2025 - To: 02 February 2025
