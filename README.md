@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 5 y
 - Developed 3 ASP.NET Core projects specializing in the Dapper framework.
 
 ---
-<!--
+
 ## 📊 Weekly Development Breakdown
 
 ```rust
@@ -40,7 +40,8 @@ JSON         14 mins         ▒░░░░░░░░░░░░░░░░
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
-START_SECTION:waka-->
+START_SECTION:waka
+
 <!--END_SECTION:waka-->
 
 ---
