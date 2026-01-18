@@ -1,13 +1,13 @@
 # 👋 Hi there! I'm Ahmed Hatem (A7medMo7ammed20)
 
-Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 5 years of experience specializing in backend development, technical leadership, and cloud services. Currently, I serve as a CTO, managing a talented development team and overseeing technical services on Google Cloud Platform (GCP).
+Welcome to my GitHub profile! I’m a Team Lead working on project delivery while also contributing as a Backend and DevOps engineer. With 5+ years of experience, I focus on building scalable backend systems, leading engineering teams, and designing reliable cloud infrastructure.
 
 ---
 
 ## 💻 My Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,nodejs,gcp,ts,tailwindcss,git,mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=angular,nodejs,nestjs,gcp,docker,ts,mongodb,redis,tailwindcss,git,mysql,firebase" />
   </a>
 </p>
 
@@ -20,9 +20,9 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 5 y
 - Worked on 6+ Angular projects ranging from medium to large scale.
 - Developed 3 ASP.NET Core projects specializing in the Dapper framework.
 
----
 
 <!--
+---
 ## 📊 Weekly Development Breakdown
 
 ```rust
@@ -43,18 +43,18 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 START_SECTION:waka
 
+---
 -->
 <!--END_SECTION:waka-->
 
----
 
 <!--
 ## 📊 My Contributions:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMo7ammed20&layout=compact&theme=radical)
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical) -->
--->
-
 ---
+-->
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical) -->
+
 
 ## 🤝 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/ahmed-hatem-9679912b7)
