@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Full Stack Web Developer with 5 y
 
 ---
 
+<!--
 ## 📊 Weekly Development Breakdown
 
 ```rust
@@ -42,6 +43,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 ```
 START_SECTION:waka
 
+-->
 <!--END_SECTION:waka-->
 
 ---
