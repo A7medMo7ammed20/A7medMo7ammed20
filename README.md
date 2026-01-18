@@ -48,10 +48,11 @@ START_SECTION:waka
 
 ---
 
+<!--
 ## 📊 My Contributions:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A7medMo7ammed20&layout=compact&theme=radical)
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=A7medMo7ammed20&show_icons=true&theme=radical) -->
-
+-->
 
 ---
 
