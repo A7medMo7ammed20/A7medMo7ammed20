@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I’m a Team Lead working on project delivery whil
 ---
 
 ## 🌟 Achievements:
-- **CTO** at [SMA SMA Smart Managed Applications for IT Co.]
-- Delivered scalable backend solutions using **Node.js** and **GCP**.
+- **Team Lead** at [SMA SMA Smart Managed Applications for IT Co.]
+- Delivered scalable backend solutions using **NestJs** and **GCP**.
 - Managed a team of 10+ developers to deliver multiple successful projects.
 - Worked on 6+ Angular projects ranging from medium to large scale.
 - Developed 3 ASP.NET Core projects specializing in the Dapper framework.
